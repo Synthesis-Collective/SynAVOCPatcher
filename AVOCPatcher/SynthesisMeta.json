@@ -1,0 +1,11 @@
+{
+  "Nickname": "A Variety of Containers Patcher",
+  "Visibility": "Visible",
+  "OneLineDescription": "Forward material swaps from AVOC on containers to final conflict winners.",
+  "LongDescription": "",
+  "PreferredAutoVersioning": "Default",
+  "RequiredMods": [
+    "A Variety of Containers.esp"
+  ],
+  "TargetedReleases": []
+}
